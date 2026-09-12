@@ -27,19 +27,26 @@ Juana Briones’
 <!--octarine-table-cols:284,100,164,0,0-->
 |  | FIRST | comments | THIRD | FOURTH |
 | --- | --- | --- | --- | --- |
+| Arnold, Julia | 17 | missing thoughts |  |  |
+| Casas-machado, Paola | 20 |  |  |  |
 | Cioners, Calvin | 20 |  |  |  |
 | Cameron Zhang | 20 |  |  |  |
 | Chang, Richard | 15 | No week 1, no eaction, assessment, or question, and agency |  |  |
+| DEYNACO, Regina | 18 | some notes short |  |  |
 | Dominic, Coco | 17 | Short notes, some mising thoughts |  |  |
 | Flores, Casandra | 10 | Short notes, np thoughts |  |  |
+| Eddy, Gus | 17 | missing thoughts |  |  |
+| grahm, paiger | 19 |  |  |  |
 | Hernandez, Santino | 20 |  |  |  |
 | Hoaglad, Sebastian | 20 |  |  |  |
 | ISLENDr, JUlia | 16 | Limiteds notes, no thoughts |  |  |
+| Kuang, Jackie | 16 | some notes short, missing thoughts |  |  |
 | lisy, Johnathan | 20 |  |  |  |
 | *Isla*s-Rangel, Vanessa | 20 |  |  |  |
 | Loery, Ian | 20 |  |  |  |
 | Lainez, Abraham | 19 | Notes a bit short |  |  |
 | Maravilla, Mariana | 20 | Great work and love the table of contents. |  |  |
+| Miller, Isyss | 15 | Some notes missing, too short, only 1 thoughts |  |  |
 | Moe, Nick | 20 |  |  |  |
 | Nguyen, Mitchell | 19 | More reaction, assessment, or question, |  |  |
 | Perez, Ronnie | 15 | No week 1, no eaction, assessment, or question, and agency |  |  |
@@ -49,6 +56,8 @@ Juana Briones’
 | Sanders, Trent | 20 |  |  |  |
 | STRICKLAND, AVA | 12 | TOO SHORT, NEED **r**eaction, assessment, or question, Missing 8/24 and 8/31 |  |  |
 | Salcedo, KArian | 15 | Missing week 1, 9/2, notes not all 2 pages |  |  |
+| Torres, Adriana | 19 | Missing  some thoughts |  |  |
+| Titch, Garret | 15 | Some notes missing,/short not enough thoughts |  |  |
 | Wo, Em | 20 |  | Photo 1 |  |
 | No name white notebook | 15 | Some short entries, no reaction, assessment, or question, and agency | photo 2 |  |
 
