@@ -22,14 +22,14 @@ What is the Difference between the Past and History?
 
 Thomas Jefferson
 
-Juana Briones’ 
+Juana Briones’
 
 <!--octarine-table-cols:284,100,164,0,0-->
 |  | FIRST | comments | THIRD | FOURTH |
 | --- | --- | --- | --- | --- |
 | Cioners, Calvin | 20 |  |  |  |
 | Cameron Zhang | 20 |  |  |  |
-| Chang, Richard | 15 | No week 1, no eaction, assessment, or question,  and agency |  |  |
+| Chang, Richard | 15 | No week 1, no eaction, assessment, or question, and agency |  |  |
 | Dominic, Coco | 17 | Short notes, some mising thoughts |  |  |
 | Flores, Casandra | 10 | Short notes, np thoughts |  |  |
 | Hernandez, Santino | 20 |  |  |  |
@@ -39,32 +39,32 @@ Juana Briones’
 | *Isla*s-Rangel, Vanessa | 20 |  |  |  |
 | Loery, Ian | 20 |  |  |  |
 | Lainez, Abraham | 19 | Notes a bit short |  |  |
-| Maravilla,  Mariana | 20 | Great work and love the table of contents. |  |  |
+| Maravilla, Mariana | 20 | Great work and love the table of contents. |  |  |
 | Moe, Nick | 20 |  |  |  |
-| Nguyen, Mitchell | 19 | More reaction, assessment, or question,  |  |  |
-| Perez, Ronnie | 15 | No week 1, no eaction, assessment, or question,  and agency |  |  |
-| Nguyenm Q Tieu Vy | 18 | Include more details, reaction, assessment, or question,  and agency |  |  |
+| Nguyen, Mitchell | 19 | More reaction, assessment, or question, |  |  |
+| Perez, Ronnie | 15 | No week 1, no eaction, assessment, or question, and agency |  |  |
+| Nguyenm Q Tieu Vy | 18 | Include more details, reaction, assessment, or question, and agency |  |  |
 | Ramirez, John | 17 | Missing week 1, notes a bit short, Need more reaction, assessment, or question,. |  |  |
 | SANTOS, HELEN | 18 | 9/9 NOTES ½ PAGE |  |  |
 | Sanders, Trent | 20 |  |  |  |
-| STRICKLAND, AVA | 12 | TOO SHORT, NEED **r**eaction, assessment, or question, Missing  8/24 and 8/31 |  |  |
-| Salcedo, KArian | 15 | Missing week 1,  9/2, notes not all 2 pages |  |  |
+| STRICKLAND, AVA | 12 | TOO SHORT, NEED **r**eaction, assessment, or question, Missing 8/24 and 8/31 |  |  |
+| Salcedo, KArian | 15 | Missing week 1, 9/2, notes not all 2 pages |  |  |
 | Wo, Em | 20 |  | Photo 1 |  |
-| No name white notebook  | 15 | Some short entries, no reaction, assessment, or question,  and agency | photo 2 |  |
+| No name white notebook | 15 | Some short entries, no reaction, assessment, or question, and agency | photo 2 |  |
 
 - 
 
-  |  |  |  |
-  | --- | --- | --- |
-  |  |  |  |
-  |  |  |  |
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
 
 - 
 
 - Week 3 notes:
 
-  - While she is mentioning the past, Em Woo mentions how during her break-up thought about suicide 3x and parent issues. While she writes she is okay now, I though I should mention it to you. 
-  - How does a teacher deal with that? 
+  - While she is mentioning the past, Em Woo mentions how during her break-up thought about suicide 3x and parent issues. While she writes she is okay now, I though I should mention it to you.
+  - How does a teacher deal with that?
 
 - 9/4
 
