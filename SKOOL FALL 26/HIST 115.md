@@ -1,0 +1,86 @@
+- 9/4 2:30
+
+- TOPICS
+
+  - 9/9 **WEEK 3**
+    - Juana Briones’ history in the Bay Area
+    - Brief reading on Thomas Jefferson
+    - **In class notebook due 1**
+  - 9/14 **WEEK 4**
+    - More Juana and European feudlsm
+  - 9/16
+    - Africa and Asia before 1500
+    - “medieval” China and a textbook excerpt “China Limits European Contact”
+  - 9/21 **WEEK 5**
+    - Africa and Asia before 1500
+    - Abbasid Caliphate and video on its science
+  - 9/23
+    - “West African Civilizations,” “Eastern City-States and Southern Empires [in Africa]
+    - Bantu Migration
+  - 9/25
+    - **Curiosity 2 (WEEK 4+5)**
+  - 9/27
+    - **Curious respones**
+  - 9/28 **WEEK 6**
+    - Europeans and the Modern world
+  - 9/30
+    - id Islam Create the Modern University”
+    - “The Ottomans Build a Vast Empire”
+    - 10/5 **WEEK 7**
+      - Indigenous land claims in colonial Mexico, “The Promised Land”
+      - *gateras* of Ecuador.
+    - 10/7
+      - Did Convents Create Opportunities for European Women”
+      - introduction to and excerpt by Sor Juana, colonial Mexican poet
+    - 10/9
+      - **In Class Notebook 3**
+    - 10/12 **WEEK 8**
+      - slave trade and the relationship between slavery and capitalism
+    - 10/14
+      - **MIDTERM**
+    - 10/19
+      - Orunmila Saves” on the survival of African religions in the face of slavery
+      - colonialism and essay on the origins of American racism.
+    - 10/21 **WEEK 9**
+      - Enlightenment in Europ
+      - Germ Warfare.
+    - 10/23
+      - **CURIOUS QUESTIONS (WEEK 6 +7)**
+    - 10/25
+      - **CURIOUS RESPONES**
+    - 10/26 **WEEK 10**
+      - Industrial Revoltion
+    - 10/28
+      - “Tokyo Drift” reading on politics and economic development in 19th-century Japan
+    - 10/30
+      - **THIRD CLASS NOTEBOOK**
+    - 11/2 **WEEK 11**
+      - early 20th-century labor movement(s)
+      - the Great Depression
+    - 11/4
+      - More Great Depression
+      - primary source political commentary.
+    - 11/9 **WEEK 12**
+      - Cold War
+      - “Poor Numbers” (on global economic development)
+    - 11/11 **NO SCHOOL**
+    - 11/13
+      - **CURIOUS QUESTIONS WEEK 11 +12**
+    - 11/15 **CURIOUS RESPONES**
+      - 11/16 **WEEK 13**
+        - More Poor Numbers
+        - U.S. carceral state/prison industrial complex
+    - 11/18
+      - More Prison
+    - 
+
+- 
+
+- 
+
+- ASSIGNMENTS:
+
+  - GRADED LECTURE NOTEBOOKS
+    - 9/13,
+      - 2 pgs per class
+  - CURIOUSITY QUESTIONS
