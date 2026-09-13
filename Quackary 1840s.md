@@ -119,6 +119,10 @@ anti-elite, populist 1830s political culture (Jacksonian democracy distrusting e
   - YC as the **epicenter of alternative medicine movements** and public backlash against mainstream doctors. It covers the Fowler family, who set up a highly popular Phrenology depot in Clinton Hall in Manhattan, where thousands of New Yorkers (including Walt Whitman) went to have their skulls read. It also touches on early medical tensions in the city, such as the infamous 1788 Doctors' Riot sparked by illegal cadaver dissectin
 - [***~Snake Oil, Hustlers and Hambones: The American Medicine Show~***](https://books.google.com/books/about/Snake_Oil_Hustlers_and_Hambones.html?id=FRSBCgAAQBAJ) by Ann Anderson: Focuses on the theatrical side of the trade, detailing how entertainment, vaudeville, and fake tonics blended together on traveling stages later in the century. [[1](https://books.google.com/books/about/Snake_Oil_Hustlers_and_Hambones.html?id=FRSBCgAAQBAJ)]
   - Features NYC as the **cultural engine that shaped the "Medicine Show" format**. The book details how traveling hucksters borrowed heavily from Manhattan’s early entertainment innovations—specifically **P.T. Barnum’s American Museum** and early Bowery vaudeville acts—to structure the free comedy, music, and theater they used to draw crowds
+    - **Reference List Entry:**
+      Anderson, Ann. 2000. *~Snake Oil, Hustlers and Hambones: The American Medicine Show~*. Jefferson, NC: McFarland & Co.
+    - **In-Text Parenthetical Citation:**
+      (Anderson 2000, [Page Number])
 - [***~The Great American Fraud~***](https://books.google.com/books/about/The_Great_American_Fraud.html?id=MwNzEAAAQBAJ) by Samuel Hopkins Adams: Highlights NYC as the **battleground for investigative journalism** and legal takedowns. Adams exposed how major New York newspapers were being financially co-opted by patent medicine companies through "red clause" advertising contracts, which forced editors to suppress any negative news about quack remedies or face cancellation.
 
 ## event
