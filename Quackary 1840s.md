@@ -33,7 +33,8 @@
   - The president of the Albany County Medical Society sued a Thomsonian botanic physician for practicing without a diploma.
   - The court sided with the regulars, fining Thomson $25 and affirming that unlicensed practitioners had no legal right to collect fees.
 - **~🔴Look IN:~**
-  - 1830s NYC newspapers,
+  - **~The Thomsonian Recorder~** (1832–1837)
+  - 1830s NYC newspapers and riots (New York Evening Post)
 
     nativist tract pamphlets
 
@@ -116,7 +117,8 @@ Ray Allen Billington's *The Protestant Crusade, 1800–1860* (1938) is the found
 - 1832 riot
 - 1834 riot
 - 1837 Native American Association Founding
-- New York's medical licensing repeal
+- NEW YORK (1844) ──► Dropped criminal penalties for unlicensed doctors after a massive petition campaign.
+  - Thomsonians had faced heavy fines for practicing. By 1844, reformers delivered petitions containing over 100,000 signatures to Albany. The New York legislature capitulated, entirely removing criminal penalties for practicing medicine without a degree.
 
 ## facts
 
@@ -124,6 +126,9 @@ Ray Allen Billington's *The Protestant Crusade, 1800–1860* (1938) is the found
 
 **INTERSECTION AND DIFFERENCE**
 
+- INTERSECTION
+  - **The Purity of the Land":** Praising home-grown, "native" American plants while demonizing imported "foreign" chemistry.
+  - **Anti-Elitism:** Arguing that a plain-spoken American with "common sense" was inherently superior to a snobbish elite doctor trained in Europe
 - While medical populism and nativism shared a cultural baseline—both believed that the "intuitive wisdom" of the native-born white American was superior to any European degree—they did not always align politically. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC128961/)]
 - Many strict **Jacksonian Democrats**, who were the driving force behind dismantling medical licenses, actually fought *against* organized nativist political groups. Jacksonians viewed organized nativism as an elite, puritanical attempt to control society, even while they personally practiced the very cultural nativism that made alternative, home-grown American remedies so popular. [[1](https://www.history.com/articles/jacksonian-democracy), [2](https://www.ebsco.com/research-starters/consumer-health/popular-health-movement)]
 
