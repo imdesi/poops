@@ -24,7 +24,7 @@
 
 ## Published materials:
 
-**~🟣NATIVIST JACKSONIAN~**
+**~🟣NATIVIST/JACKSONIAN~**
 
 - nativist tract pamphlets
 
@@ -67,7 +67,7 @@
   - American nativism through its obsession with indigenous geography
 - ~🟢A SINGLE PERSON WHO IS ANTI-REGULATION & NATIVIST~
 
-**~🟣PHILOSPHY AND BELIEF~**
+**~🟣PHILOSPHY AND BELIEFS~**
 
 - **PRODESANT/NATIVE SIDE**
 - BASIS BEHIND BELEIF
@@ -81,32 +81,33 @@
   -  **Anti-Catholicism and the Distrust of Immigrant Hospitals**
     - **Conspiracies About Cholera:** When devastating cholera epidemics hit American cities in the 1830s, traditional doctors established public quarantine hospitals to isolate the sick. Because these hospitals primarily filled up with poor, newly arrived Catholic immigrants, nativists and medical populists spread conspiracy theories. They claimed that elite Protestant doctors and foreign Catholic entities were weaponizing "scientific medicine" to deliberately kill off or experiment on the population. [[1](https://www.utoledo.edu/library/canaday/services/exhibits/quackery/quack7.html)]
     - **The Attack on Institutional Science:** Nativists fiercely mistrusted large, centralized institutions—including state-backed medical boards, large public hospitals, and universities. They viewed these entities as breeding grounds for anti-American, collectivist values, preferring the hyper-individualistic, private family healthcare championed by the Popular Health Movement
+- **~🟣THOMSONIAN~**
 - OTHER HEALTH MOVEMENTS
   - **The Eclectics:** Founded by Dr. Wooster Beach in 1827, this movement rejected traditional toxic drugs but believed in combining scientific anatomy studies with Thomson's herbal therapies. [[1](https://www.ebsco.com/research-starters/consumer-health/popular-health-movement), [2](https://brianaltonenmph.com/6-history-of-medicine-and-pharmacy/hudson-valley-medical-history/early-thomsonianism/the-essentials-of-thomsonianism/thomsonian-timeline/)]
   - **Grahamism:** Started in the late 1820s by Presbyterian minister Sylvester Graham (the inventor of the Graham cracker), this populist movement argued that health was maintained not by doctors, but through regular bathing, vegetarianism, and avoiding alcohol, meat, and heavy spices. [[1](https://opened.cuny.edu/courseware/lesson/375/student/?section=6)]
   - **The Resurgence of Domestic Medicine:** Women, who had traditionally managed family healthcare through ancestral knowledge of plant remedies, stepped back into major healing roles, directly defying the male-dominated, university-educated medical establishment
 
 
-- **DOCTOR SIDE** - physicians talking to physicians about the quackery problem
-  - case reporter, or contemporary medical-journal coverage of it)
-  - "Annual Address on Quackery" delivered before the Medical Society of the State of New York (1839)
-  - County societies in Tompkins County (1834), reprinted in the Society's own *Transactions*
-  - [[Snapzy_2026-09-12_20-49-18_825 (1).png]]
-  - WHERE:
+- 
   - PROD/NATIVE
     - Thomsonian or Eclectic publications (Beach's *American Practice*, the Reformed Medical Academy's circulars)
     - Dr. William Levingston (1830-40)
       - Devil Bill" Rockefeller
-    - JACKSONIAN MEDICINE
-      - **Doctrine of Signatures** and divine providential geography.
-        - They believed God was a cosmic geographer who deliberately planted specific cures exactly where people would need them
-        - They believed God was a cosmic geographer who deliberately planted specific cures exactly where people would need them
-        - INDIAN OBESSION
-          - White herbalists argued that because Native Americans had lived on the continent for centuries, they possessed an instinctual understanding of the continent's botany. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6208447/)]
-          - Dozens of unauthorized manuals were published during this era capitalizing on this trend, such as *~The Indian Doctor's Dispensatory~* (1813) by Peter Smith.
-          - However, as noted in historical analyses like [***~God's Healing Leaves: The Colonial Quest for Indigenous Medicines~***](https://pmc.ncbi.nlm.nih.gov/articles/PMC6208447/), white society framed this indigenous expertise as "blunder, instinct, and intimate association with the beasts of the forest," rather than actual intelligence. This allowed white botanical entrepreneurs to systematically strip indigenous names from remedies, repackage them into patented commercial products (like Thomson's system), and profit from them while denying intellectual property rights to the tribes
-          - foreign medicines are bad for the American body —> Foreign immigrants are a disease vectors polluting the American body politic.
-    - 
+- J**ACKSONIAN MEDICINE**
+  - **Doctrine of Signatures** and divine providential geography.
+    - They believed God was a cosmic geographer who deliberately planted specific cures exactly where people would need them
+    - They believed God was a cosmic geographer who deliberately planted specific cures exactly where people would need them
+    - INDIAN OBESSION
+      - White herbalists argued that because Native Americans had lived on the continent for centuries, they possessed an instinctual understanding of the continent's botany. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6208447/)]
+      - Dozens of unauthorized manuals were published during this era capitalizing on this trend, such as *~The Indian Doctor's Dispensatory~* (1813) by Peter Smith.
+      - However, as noted in historical analyses like [***~God's Healing Leaves: The Colonial Quest for Indigenous Medicines~***](https://pmc.ncbi.nlm.nih.gov/articles/PMC6208447/), white society framed this indigenous expertise as "blunder, instinct, and intimate association with the beasts of the forest," rather than actual intelligence. This allowed white botanical entrepreneurs to systematically strip indigenous names from remedies, repackage them into patented commercial products (like Thomson's system), and profit from them while denying intellectual property rights to the tribes
+      - foreign medicines are bad for the American body —> Foreign immigrants are a disease vectors polluting the American body politic.
+      - Jacksonian "producerism," a leveling hostility to any claimed elite or credentialed authoritY
+
+        identical rhetoric about corrupt, self-serving elites exploiting ordinary Americans.
+
+        Earlier Jacksonian-era wave (roughly 1830–1840): Protestant-vs-Catholic organizing that predates the famine influx — the 1832 riot at a New York Protestant Association meeting, the anti-abolitionist riots of 1834 (which mixed nativism, anti-Catholicism, and anti-Irish sentiment even though the ostensible target was abolitionists), and the formation of the Native American Association in 1837. Tammany itself started out explicitly nativist — its 1789 constitution restricted leadership to native-born Americans — before it flipped to courting the immigrant vote.
+  - 
 - **THOMSONIAN MOVEMENT**
 - [[Snapzy_2026-09-12_20-20-51_261 (1).png]]
 - 
@@ -119,21 +120,22 @@
   - **The Core Philosophy:** Thomson believed that all disease was caused by a loss of internal bodily heat. He famously claimed, "Heat is life, and cold is death."
   - **The Treatment System:** Instead of using the harsh treatments of regular physicians—such as bloodletting, blistering, and toxic chemical purges like mercury (calomel)—Thomson used native herbs. His system relied heavily on **Lobelia inflata** (an organic emetic to cause vomiting and clear toxins) and cayenne pepper (to restore internal heat), followed by steam baths.
   - **Democratic Medicine:** Thomson's slogan was **"Every man his own physician."** He sold "Family Rights" for $20, which included a ~🔴handbook allowing families to treat themselves without paying an elite, university-trained doctor. This fiercely anti-aristocratic, do-it-yourself ethos resonated deeply with Jacksonian-era Americans who distrusted monopolies and established authorities.~
-- 
+- **DOCTOR SIDE** -
+  - physicians talking to physicians about the quackery problem
 
-## AREAS
+    case reporter, or contemporary medical-journal coverage of it)
+
+    "Annual Address on Quackery" delivered before the Medical Society of the State of New York (1839)
+
+    County societies in Tompkins County (1834), reprinted in the Society's own TransactionsAREAS
+
 
 - Religious/ethnic: 1830s Protestant/nativist organizing (**Billington's tradition**)
 
 
 - Professional/regulatory: medical licensing repeal (**Appel's tradition**)
-- =
-  - **Jacksonian "producerism,**" a leveling hostility to any claimed elite or credentialed authoritY
-  - identical rhetoric about corrupt, self-serving elites exploiting ordinary Americans.
 
-**Earlier Jacksonian-era wave (roughly 1830–1840):** Protestant-vs-Catholic organizing that predates the famine influx — the 1832 riot at a New York Protestant Association meeting, the anti-abolitionist riots of 1834 (which mixed nativism, anti-Catholicism, and anti-Irish sentiment even though the ostensible target was abolitionists), and the formation of the Native American Association in 1837. Tammany itself started out explicitly nativist — its 1789 constitution restricted leadership to native-born Americans — before it flipped to courting the immigrant vote.
-
-## secondary sources
+**secondary sources**
 
 - *~The Toadstool Millionaires: A Social History of Patent Medicines in America Before Federal Regulation~* by James Harvey Young: The definitive academic history tracing how unregulated medical concoctions and early pitchmen grew into a massive commercial enterprise during the 19th century
   - Focuses on NYC as the **corporate hub for patent medicine empires**. It heavily features Benjamin Brandreth, who established a massive "vegetable pill" factory just outside the city and built the prominent Brandreth Hotel at Canal Street and Broadway. The book details how these early millionaires used NYC's powerful newspaper presses to launch the nation’s first mass-media advertising blitzes
@@ -147,17 +149,6 @@
   - Features NYC as the **cultural engine that shaped the "Medicine Show" format**. The book details how traveling hucksters borrowed heavily from Manhattan’s early entertainment innovations—specifically **P.T. Barnum’s American Museum** and early Bowery vaudeville acts—to structure the free comedy, music, and theater they used to draw crowds
 - [***~The Great American Fraud~***](https://books.google.com/books/about/The_Great_American_Fraud.html?id=MwNzEAAAQBAJ) by Samuel Hopkins Adams: Highlights NYC as the **battleground for investigative journalism** and legal takedowns. Adams exposed how major New York newspapers were being financially co-opted by patent medicine companies through "red clause" advertising contracts, which forced editors to suppress any negative news about quack remedies or face cancellation.
   - Samuel Hopkins Adams, *The Great American Fraud: Articles on the Nostrum Evil and Quackery Reprinted from Collier's* (Chicago: American Medical Association, 1907).
-
-## event
-
-- 1807 the Medical Society of the State of New York, chartered 
-- 1832 riot
-- 1834 riot
-- 1837 Native American Association Founding
-- NEW YORK (1844) ──► Dropped criminal penalties for unlicensed doctors after a massive petition campaign.
-  - Thomsonians had faced heavy fines for practicing. By 1844, reformers delivered petitions containing over 100,000 signatures to Albany. The New York legislature capitulated, entirely removing criminal penalties for practicing medicine without a degree.
-- Forming the AMA (1847)
-  - The AMA was explicitly built to push back against the populist movement. Since they couldn't use state laws to ban herbalists, the AMA created a strict "Code of Ethics." Any doctor who joined the AMA was completely banned from consulting with, talking to, or working alongside an unorthodox healer. This was a clever economic boycott designed to draw a hard line between "real" science and populist alternatives
 
 ## facts
 
