@@ -1,9 +1,9 @@
 - **General observations:** 
-  - All the notebooks were esentially on target for 1. Time period and 2. Key Concepts.
-  - Almost everyone didn’t have anything listed for  requirement 3. on agency. As the omission was so prevelant, I didn’t take off points for that. 
+  - All the notebooks were essentially on target for 1. Time period and 2. Key Concepts.
+  - Almost everyone didn’t have anything listed for  requirement 3. on agency. As the As the omission was so prevalent, I didn’t take off points for that. 
 
-  **Special Notes:** 
-  - 1 notesbook  had no name, or I couldn’t find it. May belong to *Jude Holmes* or *Areina Howard*  (See below)
+  Special **Notes:**
+  - 1 notebook  had no name, or I couldn’t find it. May belong to *Jude Holmes* or *Areina Howard*  (See below)
     - The first page of the nameless notebook is  *photo 1.* 
   - *Jude Holmes* and *Areina Howard* are marked as having handed in their notebooks, but they were not included. 
   - *Brian Barb*a - Is on the paper list but I not Canvas. He didnt hand  his notebook in. 
