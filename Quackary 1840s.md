@@ -33,19 +33,33 @@
 - CASE: Staats v. Thomson, Albany County, Supreme Court,:
   - The president of the Albany County Medical Society sued a Thomsonian botanic physician for practicing without a diploma.
   - The court sided with the regulars, fining Thomson $25 and affirming that unlicensed practitioners had no legal right to collect fees.
-- **~🔴Look for~**:
+- **~🔴Look IN:~**
+  - 830s NYC newspapers,
+
+    nativist tract pamphlets
+
+    Minute books of organizations like the Native American AssociatioN
+
+    American nativism through its obsession with indigenous geography
 - ~🟢A SINGLE PERSON WHO IS ANTI-REGULATION & NATIVIST~
   - **PRODESANT/NATIVE SIDE**
-    - 1830s NYC newspapers,
-    - nativist tract pamphlets
-    - Minute books of organizations like the Native American AssociatioN
-    - American **nativism** through its obsession with **indigenous geography**
-      - Regular physicians relied on foreign chemical minerals (like mercury from Europe) and exotic, imported drugs.
-      - Thomsonians claimed that a benevolent God placed the cure for American diseases inside **American soil**—specifically using native weeds, wild herbs, and indigenous plants. They argued that foreign medical practices were unsuited for the uniquely democratic American constitution
-  - **DOCTOR SIDE** - physicians talking to physicians about the quackery problem
-    - case reporter, or contemporary medical-journal coverage of it)
-    - "Annual Address on Quackery" delivered before the Medical Society of the State of New York (1839)
-    - County societies in Tompkins County (1834), reprinted in the Society's own *Transactions*
+  - BASIS BEHIND BELEIF
+    - **Rejecting "Foreign" and European Medical Elites**
+      - At the time, the absolute highest standard of medical education was found in Europe—specifically in Paris, London, and Germany. Wealthy, upper-class American doctors would travel across the Atlantic to study at these elite universities. When they returned to the U.S., they pushed for strict state licensing laws to establish themselves as the only "legitimate" doctors. [[1](https://www.utoledo.edu/library/canaday/services/exhibits/quackery/quack7.html)]
+
+        Nativists and medical populists viewed this as a direct betrayal of American values:
+        - They labeled traditional doctors as **snobbish, Euro-centric elites** who looked down on the common American.
+        - They argued that European medical science was corrupted by luxury, monarchy, and atheism.
+        - Alternative practitioners claimed that true American medicine should rely on **indigenous knowledge**—using plants and herbs native to American soil rather than chemical drugs imported from European laboratories.
+  - [[Snapzy_2026-09-12_20-20-51_261.png]]
+  - OTHER HEALTH MOVEMENTS
+    - **The Eclectics:** Founded by Dr. Wooster Beach in 1827, this movement rejected traditional toxic drugs but believed in combining scientific anatomy studies with Thomson's herbal therapies. [[1](https://www.ebsco.com/research-starters/consumer-health/popular-health-movement), [2](https://brianaltonenmph.com/6-history-of-medicine-and-pharmacy/hudson-valley-medical-history/early-thomsonianism/the-essentials-of-thomsonianism/thomsonian-timeline/)]
+    - **Grahamism:** Started in the late 1820s by Presbyterian minister Sylvester Graham (the inventor of the Graham cracker), this populist movement argued that health was maintained not by doctors, but through regular bathing, vegetarianism, and avoiding alcohol, meat, and heavy spices. [[1](https://opened.cuny.edu/courseware/lesson/375/student/?section=6)]
+    - **The Resurgence of Domestic Medicine:** Women, who had traditionally managed family healthcare through ancestral knowledge of plant remedies, stepped back into major healing roles, directly defying the male-dominated, university-educated medical establishment
+- **DOCTOR SIDE** - physicians talking to physicians about the quackery problem
+  - case reporter, or contemporary medical-journal coverage of it)
+  - "Annual Address on Quackery" delivered before the Medical Society of the State of New York (1839)
+  - County societies in Tompkins County (1834), reprinted in the Society's own *Transactions*
   - WHERE:
   - PROD/NATIVE
     - New-York Historical Society
@@ -53,9 +67,7 @@
     - NYPL's manuscript division
     - Readex's Early American Newspapers
     - Thomsonian or Eclectic publications (Beach's *American Practice*, the Reformed Medical Academy's circulars)
-
-New York, like most states, had a licensing structure administered through county and state medical societies (the Medical Society of the State of New York, chartered 1807) with at least nominal penalties for unlicensed practice. In the 1830s and 1840s, under pressure from the Thomsonian movement and the broader Jacksonian "anti-monopoly" curren
-
+- 
 - The **Thomsonian/irregular-medicine** movement drove licensing repeal was a populist, largely native-born, rural-and-small-town phenomenon — Jacksonian in character, framed around "every man his own physician" and hostility to elite professional monopoly. It was not, on the evidence I've found, an immigrant movement or a fight fought on behalf of immigrant communities.
 - Founded by **Samuel Thomson** in the early 19th century, the Thomsonian system was a highly popular "botanic" medical movement that directly challenged orthodox ("regular") medicine.
   - **The Core Philosophy:** Thomson believed that all disease was caused by a loss of internal bodily heat. He famously claimed, "Heat is life, and cold is death."
@@ -74,16 +86,16 @@ anti-elite, populist 1830s political culture (Jacksonian democracy distrusting e
 
 ## AREAS
 
-- Religious/ethnic: 1830s Protestant/nativist organizing (Billington's tradition)
+- Religious/ethnic: 1830s Protestant/nativist organizing (**Billington's tradition**)
 - 
 
 
 - 
 
 
-- Professional/regulatory: medical licensing repeal (Appel's tradition)
+- Professional/regulatory: medical licensing repeal (**Appel's tradition**)
 - =
-  - Jacksonian "producerism," a leveling hostility to any claimed elite or credentialed authoritY
+  - **Jacksonian "producerism,**" a leveling hostility to any claimed elite or credentialed authoritY
   - identical rhetoric about corrupt, self-serving elites exploiting ordinary Americans.
 
 **Earlier Jacksonian-era wave (roughly 1830–1840):** Protestant-vs-Catholic organizing that predates the famine influx — the 1832 riot at a New York Protestant Association meeting, the anti-abolitionist riots of 1834 (which mixed nativism, anti-Catholicism, and anti-Irish sentiment even though the ostensible target was abolitionists), and the formation of the Native American Association in 1837. Tammany itself started out explicitly nativist — its 1789 constitution restricted leadership to native-born Americans — before it flipped to courting the immigrant vote.
@@ -94,6 +106,7 @@ Ray Allen Billington's *The Protestant Crusade, 1800–1860* (1938) is the found
 
 ## event
 
+- 1807 the Medical Society of the State of New York, chartered 
 - 1832 riot
 - 1834 riot
 - 1837 Native American Association Founding
@@ -102,3 +115,4 @@ Ray Allen Billington's *The Protestant Crusade, 1800–1860* (1938) is the found
 ## facts
 
 - Five Points' identity as *the* nativist flashpoint neighborhood is tied overwhelmingly to Irish Catholic immigration, which becomes the dominant story from the mid-1840s famine migration onwar
+- 
