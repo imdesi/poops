@@ -1,18 +1,19 @@
-- **General observations:** Almost everyone didn’t have anything listed for the third requirement, on agency. Scince it was so prevelant, I didn’t take off points for that
+- **General observations:** 
+  - All the notebooks were esentially on target for 1. Time period and 2. Key Concepts.
+  - Almost everyone didn’t have anything listed for  requirement 3. on agency. Scince it was so prevelant, I didn’t take off points for that
 - **Special Notes:** 
-- 1 notesbook s had no name, or I couldn’t find it the numbers are the grades: 
-  - No name white notebook -15 (photo 1)
-- **Additional Notes**
-  - Brian Barba - didnt hand  in, but i dont see him listed
-  - Calvin Cisneros- You have marked as not handed in, but i saw his
-  - Kyle Donaldson- - You  put ?, not on list
-  - Ar
-- **Potential Concern:**
-  - Em Woo
-  - Under week 3, she mentions she considered suicide due  parent issues and a break up. While she writes she is fine now, I though I should mention it to you, so if intervention is appriopriate, she gets it.
-    - The passage is photo 2. 
-    - How does a teacher deal with that?
-- **Below is a list of the people who got 18 or less, and the basis for that grade, incase they ask. When I wrote “thoughts” it refers to requirement 4 Your reaction, assessment, or question**
+  - 1 notesbook  had no name, or I couldn’t find it the numbers are the grades: 
+    - No name white notebook -15 (photo 1)
+  - *Jude Holmes* and *Areina Howard* are marked as having handed in their notebooks, but they were not included. 
+  - *Brian Barb*a - Is on the paper list but I not Canvas. He didnt hand  his notebook in. 
+  - *Calvin Cisneros* has on X o the paper, but his notebook was included and he got a grade.
+  - *Kyle Donaldson*- - You  put ? on the paper, he’s not on Canvas. 
+- **Additional Note (Potential Concern):**
+  - *Em Woo*
+    - Under week 3, she mentions she considered suicide due  parent issues and a break up. While she writes she is fine now, I though I should mention it to you, so if intervention is appriopriate, she gets it.
+      - The passage is *photo 2.* 
+      - How does a teacher deal with that?
+- **Below is a list of the people who got 18 or less, and the basis for that grade, in case they ask. When I wrote “thoughts” it refers to requirement 4 Your reaction, assessment, or question**
 - **Grades:**
   - Mohammad Arifi Missing several days,
   - Arnold, Julia missing thoughts
