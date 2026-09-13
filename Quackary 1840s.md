@@ -62,6 +62,7 @@
   - case reporter, or contemporary medical-journal coverage of it)
   - "Annual Address on Quackery" delivered before the Medical Society of the State of New York (1839)
   - County societies in Tompkins County (1834), reprinted in the Society's own *Transactions*
+  - [[Snapzy_2026-09-12_20-49-18_825 (1).png]]
   - WHERE:
   - PROD/NATIVE
     - New-York Historical Society
@@ -69,6 +70,9 @@
     - NYPL's manuscript division
     - Readex's Early American Newspapers
     - Thomsonian or Eclectic publications (Beach's *American Practice*, the Reformed Medical Academy's circulars)
+    - Dr. William Levingston (1830-40)
+      - Devil Bill" Rockefeller
+    - 
 - **THOMSONIAN MOVEMENT**
 - [[Snapzy_2026-09-12_20-20-51_261 (1).png]]
 - 
@@ -109,7 +113,13 @@ anti-elite, populist 1830s political culture (Jacksonian democracy distrusting e
 
 ## secondary sources
 
-Ray Allen Billington's *The Protestant Crusade, 1800–1860* (1938) is the foundational synthesis and still gets cited as the starting
+- *~The Toadstool Millionaires: A Social History of Patent Medicines in America Before Federal Regulation~* by James Harvey Young: The definitive academic history tracing how unregulated medical concoctions and early pitchmen grew into a massive commercial enterprise during the 19th century
+  - Focuses on NYC as the **corporate hub for patent medicine empires**. It heavily features Benjamin Brandreth, who established a massive "vegetable pill" factory just outside the city and built the prominent Brandreth Hotel at Canal Street and Broadway. The book details how these early millionaires used NYC's powerful newspaper presses to launch the nation’s first mass-media advertising blitzes
+- *Marketplace of the Marvelous: The Strange Origins of Modern Medicine* by Erika Janik: Explores 19th-century alternative healers, tonic peddlers, and herbalists who capitalized on public distrust of traditional, harsh 1840s medical practices (like bloodletting
+  - YC as the **epicenter of alternative medicine movements** and public backlash against mainstream doctors. It covers the Fowler family, who set up a highly popular Phrenology depot in Clinton Hall in Manhattan, where thousands of New Yorkers (including Walt Whitman) went to have their skulls read. It also touches on early medical tensions in the city, such as the infamous 1788 Doctors' Riot sparked by illegal cadaver dissectin
+- [***~Snake Oil, Hustlers and Hambones: The American Medicine Show~***](https://books.google.com/books/about/Snake_Oil_Hustlers_and_Hambones.html?id=FRSBCgAAQBAJ) by Ann Anderson: Focuses on the theatrical side of the trade, detailing how entertainment, vaudeville, and fake tonics blended together on traveling stages later in the century. [[1](https://books.google.com/books/about/Snake_Oil_Hustlers_and_Hambones.html?id=FRSBCgAAQBAJ)]
+  - Features NYC as the **cultural engine that shaped the "Medicine Show" format**. The book details how traveling hucksters borrowed heavily from Manhattan’s early entertainment innovations—specifically **P.T. Barnum’s American Museum** and early Bowery vaudeville acts—to structure the free comedy, music, and theater they used to draw crowds
+- [***~The Great American Fraud~***](https://books.google.com/books/about/The_Great_American_Fraud.html?id=MwNzEAAAQBAJ) by Samuel Hopkins Adams: Highlights NYC as the **battleground for investigative journalism** and legal takedowns. Adams exposed how major New York newspapers were being financially co-opted by patent medicine companies through "red clause" advertising contracts, which forced editors to suppress any negative news about quack remedies or face cancellation.
 
 ## event
 
@@ -119,6 +129,8 @@ Ray Allen Billington's *The Protestant Crusade, 1800–1860* (1938) is the found
 - 1837 Native American Association Founding
 - NEW YORK (1844) ──► Dropped criminal penalties for unlicensed doctors after a massive petition campaign.
   - Thomsonians had faced heavy fines for practicing. By 1844, reformers delivered petitions containing over 100,000 signatures to Albany. The New York legislature capitulated, entirely removing criminal penalties for practicing medicine without a degree.
+- Forming the AMA (1847)
+  - The AMA was explicitly built to push back against the populist movement. Since they couldn't use state laws to ban herbalists, the AMA created a strict "Code of Ethics." Any doctor who joined the AMA was completely banned from consulting with, talking to, or working alongside an unorthodox healer. This was a clever economic boycott designed to draw a hard line between "real" science and populist alternatives
 
 ## facts
 
@@ -156,3 +168,7 @@ NATIVIST STUPID THEORIES
   Because traditional medicine was a fiercely male-dominated field, the rise of male doctors taking over obstetrics (childbirth)—a job historically held by female midwives—sparked dark, protective conspiracies.
   - **The Theory:** Populist health reformers claimed that university-educated male doctors were using childbirth as an excuse to perform unnecessary, experimental, and agonizing surgeries on women using cold metal instruments (like early forceps).
   - **The Motive:** It was framed as a sadistic, elitist attack on the natural purity of American motherhood. Populists claimed that doctors preferred these mechanical, painful interventions simply to show off their "scientific" authority and justify their high fees, whereas traditional female midwives allowed nature to take its course safely.
+
+MORE LEGAL STUFF
+
+- [[Snapzy_2026-09-12_20-51-32_909.png]]
