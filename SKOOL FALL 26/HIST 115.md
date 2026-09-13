@@ -594,6 +594,10 @@
 | ALexis Mcfarlead |  | Missings days in addtion to absence, no thoughts, short notes |
 | Jordan Liggins |  | Missing days , short notes, no thoughts |
 | [Keily Torres Hernandez](https://sfsu.instructure.com/courses/72071/grades/166201#tab-assignments) |  | Short notes, no thoughts |
+| Sara Katz |  | Missing days, , some missing thoughts |
+| Jeheili Valencia |  | some missing days, Short notes, Missing thoughts |
+| Mia Lopez |  | Missing days, missing thoughts |
+| Diego Jauregui |  | short notes, some missing thoughts |
 
 No name white notebook -15
 
