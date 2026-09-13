@@ -12,6 +12,8 @@
 
 ## Published materials:
 
+Barent P. Staats vs. John Thomson
+
 - SAMUEL THOMPSON
   - SLOGAN: EVERY MAN HIS OWN PHYSICIAN. BUY A FAMILY RIGHT FOR $20.
     - 1822: **~New Guide to Health; or, Botanic Family Physician~**
