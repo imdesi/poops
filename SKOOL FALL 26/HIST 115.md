@@ -585,21 +585,21 @@
 
     out of 20
 
-| Name | Grade | Comments |
-| --- | --- | --- |
-| [Mohammad Arifi](https://sfsu.instructure.com/courses/72071/grades/154079#tab-assignments) |  | Missing several days,  |
-| Leroy Walker |  | Missing days besdies his absence, no thoughts |
-| Byron Kyle Garcia |  | some missing thoughts |
-| [Jaylen Becerril](https://sfsu.instructure.com/courses/72071/grades/258319#tab-assignments) |  | No thoughts |
-| [Destiny Kinyanjui](https://sfsu.instructure.com/courses/72071/grades/266377#tab-assignments) |  | short notes, no thoughts |
-| ALexis Mcfarlead |  | Missings days in addtion to absence, no thoughts, short notes |
-| Jordan Liggins |  | Missing days , short notes, no thoughts |
-| [Azael Jese Perez Salinas](https://sfsu.instructure.com/courses/72071/grades/269229#tab-assignments) |  | some short notes, missing thoughts |
-| [Keily Torres Hernandez](https://sfsu.instructure.com/courses/72071/grades/166201#tab-assignments) |  | Short notes, no thoughts |
-| Sara Katz |  | Missing days, , some missing thoughts |
-| Jeheili Valencia |  | some missing days, Short notes, Missing thoughts |
-| Mia Lopez |  | Missing days, missing thoughts |
-| Diego Jauregui |  | short notes, some missing thoughts |
+| Name | Comments |
+| --- | --- |
+| [Mohammad Arifi](https://sfsu.instructure.com/courses/72071/grades/154079#tab-assignments) | Missing several days,  |
+| Leroy Walker | Missing days besdies his absence, no thoughts |
+| Byron Kyle Garcia | some missing thoughts |
+| [Jaylen Becerril](https://sfsu.instructure.com/courses/72071/grades/258319#tab-assignments) | No thoughts |
+| [Destiny Kinyanjui](https://sfsu.instructure.com/courses/72071/grades/266377#tab-assignments) | short notes, no thoughts |
+| ALexis Mcfarlead | Missings days in addtion to absence, no thoughts, short notes |
+| Jordan Liggins | Missing days , short notes, no thoughts |
+| [Azael Jese Perez Salinas](https://sfsu.instructure.com/courses/72071/grades/269229#tab-assignments) | some short notes, missing thoughts |
+| [Keily Torres Hernandez](https://sfsu.instructure.com/courses/72071/grades/166201#tab-assignments) | Short notes, no thoughts |
+| Sara Katz | Missing days, , some missing thoughts |
+| Jeheili Valencia | some missing days, Short notes, Missing thoughts |
+| Mia Lopez | Missing days, missing thoughts |
+| Diego Jauregui | short notes, some missing thoughts |
 
 No name white notebook -15
 
