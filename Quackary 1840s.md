@@ -22,6 +22,7 @@
         - **The Thomsonian Manual, or, Advocate of the Principles Which Govern the Thomsonian System**(Published 1835–1838 in Boston). This monthly periodical served as a defensive shield against state licensing laws, printing anti-orthodox articles and documenting instances where mainstream doctors allegedly "poisoned" patients.
         - **Thomsonian Medical Almanacs:** By the late 1830s, the movement printed annual revised almanacs distributed to the public. These booklets contained calendars interspersed with dramatic testimonials, health guides, and listings for authorized Thomsonian Medicine Stores.
           - See: [**Advertising Health to the Peop**](https://www.librarycompany.org/doctor/helfand.html)**le**
+          - The People's Doctors: Samuel Thomson and the American Botanical Movement, 1790-1860 By John S. Haller, Jr. (Carbondale, IL: Southern Illinois University Press, 2000) (377 pages; $49.95 cloth)
 
 ## FOCUS GROUPS;
 
@@ -115,15 +116,16 @@ anti-elite, populist 1830s political culture (Jacksonian democracy distrusting e
 
 - *~The Toadstool Millionaires: A Social History of Patent Medicines in America Before Federal Regulation~* by James Harvey Young: The definitive academic history tracing how unregulated medical concoctions and early pitchmen grew into a massive commercial enterprise during the 19th century
   - Focuses on NYC as the **corporate hub for patent medicine empires**. It heavily features Benjamin Brandreth, who established a massive "vegetable pill" factory just outside the city and built the prominent Brandreth Hotel at Canal Street and Broadway. The book details how these early millionaires used NYC's powerful newspaper presses to launch the nation’s first mass-media advertising blitzes
+    - **Footnote / Endnote (First mention):**
+      1. James Harvey Young, *The Toadstool Millionaires: A Social History of Patent Medicines in America Before Federal Regulation* (Princeton: Princeton University Press, 1961), [Insert Page Number].
+    - **Shortened Footnote (Subsequent mentions):**
+      2. Young, *The Toadstool Millionaires*, [Insert Page Number].
 - *Marketplace of the Marvelous: The Strange Origins of Modern Medicine* by Erika Janik: Explores 19th-century alternative healers, tonic peddlers, and herbalists who capitalized on public distrust of traditional, harsh 1840s medical practices (like bloodletting
   - YC as the **epicenter of alternative medicine movements** and public backlash against mainstream doctors. It covers the Fowler family, who set up a highly popular Phrenology depot in Clinton Hall in Manhattan, where thousands of New Yorkers (including Walt Whitman) went to have their skulls read. It also touches on early medical tensions in the city, such as the infamous 1788 Doctors' Riot sparked by illegal cadaver dissectin
 - [***~Snake Oil, Hustlers and Hambones: The American Medicine Show~***](https://books.google.com/books/about/Snake_Oil_Hustlers_and_Hambones.html?id=FRSBCgAAQBAJ) by Ann Anderson: Focuses on the theatrical side of the trade, detailing how entertainment, vaudeville, and fake tonics blended together on traveling stages later in the century. [[1](https://books.google.com/books/about/Snake_Oil_Hustlers_and_Hambones.html?id=FRSBCgAAQBAJ)]
   - Features NYC as the **cultural engine that shaped the "Medicine Show" format**. The book details how traveling hucksters borrowed heavily from Manhattan’s early entertainment innovations—specifically **P.T. Barnum’s American Museum** and early Bowery vaudeville acts—to structure the free comedy, music, and theater they used to draw crowds
-    - **Reference List Entry:**
-      Anderson, Ann. 2000. *~Snake Oil, Hustlers and Hambones: The American Medicine Show~*. Jefferson, NC: McFarland & Co.
-    - **In-Text Parenthetical Citation:**
-      (Anderson 2000, [Page Number])
 - [***~The Great American Fraud~***](https://books.google.com/books/about/The_Great_American_Fraud.html?id=MwNzEAAAQBAJ) by Samuel Hopkins Adams: Highlights NYC as the **battleground for investigative journalism** and legal takedowns. Adams exposed how major New York newspapers were being financially co-opted by patent medicine companies through "red clause" advertising contracts, which forced editors to suppress any negative news about quack remedies or face cancellation.
+  - Samuel Hopkins Adams, *The Great American Fraud: Articles on the Nostrum Evil and Quackery Reprinted from Collier's* (Chicago: American Medical Association, 1907).
 
 ## event
 
