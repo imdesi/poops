@@ -29,12 +29,11 @@
 - Native American Association
 - Memorialists v Foreigners
 - American Party
-- V.
 - CASE: Staats v. Thomson, Albany County, Supreme Court,:
   - The president of the Albany County Medical Society sued a Thomsonian botanic physician for practicing without a diploma.
   - The court sided with the regulars, fining Thomson $25 and affirming that unlicensed practitioners had no legal right to collect fees.
 - **~🔴Look IN:~**
-  - 830s NYC newspapers,
+  - 1830s NYC newspapers,
 
     nativist tract pamphlets
 
@@ -51,7 +50,9 @@
         - They labeled traditional doctors as **snobbish, Euro-centric elites** who looked down on the common American.
         - They argued that European medical science was corrupted by luxury, monarchy, and atheism.
         - Alternative practitioners claimed that true American medicine should rely on **indigenous knowledge**—using plants and herbs native to American soil rather than chemical drugs imported from European laboratories.
-  - [[Snapzy_2026-09-12_20-20-51_261.png]]
+    -  **Anti-Catholicism and the Distrust of Immigrant Hospitals**
+      - **Conspiracies About Cholera:** When devastating cholera epidemics hit American cities in the 1830s, traditional doctors established public quarantine hospitals to isolate the sick. Because these hospitals primarily filled up with poor, newly arrived Catholic immigrants, nativists and medical populists spread conspiracy theories. They claimed that elite Protestant doctors and foreign Catholic entities were weaponizing "scientific medicine" to deliberately kill off or experiment on the population. [[1](https://www.utoledo.edu/library/canaday/services/exhibits/quackery/quack7.html)]
+      - **The Attack on Institutional Science:** Nativists fiercely mistrusted large, centralized institutions—including state-backed medical boards, large public hospitals, and universities. They viewed these entities as breeding grounds for anti-American, collectivist values, preferring the hyper-individualistic, private family healthcare championed by the Popular Health Movement
   - OTHER HEALTH MOVEMENTS
     - **The Eclectics:** Founded by Dr. Wooster Beach in 1827, this movement rejected traditional toxic drugs but believed in combining scientific anatomy studies with Thomson's herbal therapies. [[1](https://www.ebsco.com/research-starters/consumer-health/popular-health-movement), [2](https://brianaltonenmph.com/6-history-of-medicine-and-pharmacy/hudson-valley-medical-history/early-thomsonianism/the-essentials-of-thomsonianism/thomsonian-timeline/)]
     - **Grahamism:** Started in the late 1820s by Presbyterian minister Sylvester Graham (the inventor of the Graham cracker), this populist movement argued that health was maintained not by doctors, but through regular bathing, vegetarianism, and avoiding alcohol, meat, and heavy spices. [[1](https://opened.cuny.edu/courseware/lesson/375/student/?section=6)]
@@ -67,8 +68,13 @@
     - NYPL's manuscript division
     - Readex's Early American Newspapers
     - Thomsonian or Eclectic publications (Beach's *American Practice*, the Reformed Medical Academy's circulars)
+- **THOMSONIAN MOVEMENT**
+- [[Snapzy_2026-09-12_20-20-51_261 (1).png]]
 - 
-- The **Thomsonian/irregular-medicine** movement drove licensing repeal was a populist, largely native-born, rural-and-small-town phenomenon — Jacksonian in character, framed around "every man his own physician" and hostility to elite professional monopoly. It was not, on the evidence I've found, an immigrant movement or a fight fought on behalf of immigrant communities.
+  - Samuel Thomson, the leader of the botanical medicine movement, heavily weaponized nativist rhetoric to sell his herbal system. He framed his conflict with traditional doctors as a patriotic battle between regular, God-fearing Americans and a foreign medical tyranny. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC128961/)]
+    - **"Native Plants for Native Americans":** Thomsonians argued that God placed specific healing plants in the exact environment where people lived. They claimed that the roots, barks, and herbs found in the American wilderness were explicitly designed by nature to cure the illnesses of people living in America.
+    - **Fear of "Foreign" Contamination:** Using imported chemical drugs like mercury (calomel) or arsenic was framed not just as bad medicine, but as a dangerous injection of foreign toxins into the pure, self-reliant American body.
+  - The **Thomsonian/irregular-medicine** movement drove licensing repeal was a populist, largely native-born, rural-and-small-town phenomenon — Jacksonian in character, framed around "every man his own physician" and hostility to elite professional monopoly. It was not, on the evidence I've found, an immigrant movement or a fight fought on behalf of immigrant communities.
 - Founded by **Samuel Thomson** in the early 19th century, the Thomsonian system was a highly popular "botanic" medical movement that directly challenged orthodox ("regular") medicine.
   - **The Core Philosophy:** Thomson believed that all disease was caused by a loss of internal bodily heat. He famously claimed, "Heat is life, and cold is death."
   - **The Treatment System:** Instead of using the harsh treatments of regular physicians—such as bloodletting, blistering, and toxic chemical purges like mercury (calomel)—Thomson used native herbs. His system relied heavily on **Lobelia inflata** (an organic emetic to cause vomiting and clear toxins) and cayenne pepper (to restore internal heat), followed by steam baths.
@@ -115,4 +121,33 @@ Ray Allen Billington's *The Protestant Crusade, 1800–1860* (1938) is the found
 ## facts
 
 - Five Points' identity as *the* nativist flashpoint neighborhood is tied overwhelmingly to Irish Catholic immigration, which becomes the dominant story from the mid-1840s famine migration onwar
-- 
+
+**INTERSECTION AND DIFFERENCE**
+
+- While medical populism and nativism shared a cultural baseline—both believed that the "intuitive wisdom" of the native-born white American was superior to any European degree—they did not always align politically. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC128961/)]
+- Many strict **Jacksonian Democrats**, who were the driving force behind dismantling medical licenses, actually fought *against* organized nativist political groups. Jacksonians viewed organized nativism as an elite, puritanical attempt to control society, even while they personally practiced the very cultural nativism that made alternative, home-grown American remedies so popular. [[1](https://www.history.com/articles/jacksonian-democracy), [2](https://www.ebsco.com/research-starters/consumer-health/popular-health-movement)]
+
+NATIVIST STUPID THEORIES
+
+- **The "Burking" Panic and Secret Body Snatching**
+
+  The most widespread and terrifying theory was that traditional doctors and medical students were hiring criminals to kidnap and murder living citizens to use their bodies for dissection.
+  - **The Backdrop:** To learn anatomy, medical schools needed human cadavers. However, dissecting a human body was highly illegal and taboo at the time. As a result, medical students frequently went "grave robbing" (stealing fresh corpses from local cemeteries).
+  - **The Theory:** In 1828, a massive real-world scandal broke out in Scotland: two men named Burke and Hare were caught murdering poor people to sell their fresh bodies to a medical school (a practice that became known as "Burking").
+  - **The American Spin:** Word traveled to America, and the public became convinced that local elite doctors were doing the exact same thing. Working-class families, African Americans, and poor immigrants believed that if they walked past a medical school or hospital at night, doctors would drag them inside, smother them, and dissect them for fun and profit. This fear triggered multiple **"Anatomy Riots"** where angry mobs literally attacked and tore down medical school buildings.
+- **Cholera Conspiracy: Doctors Planting the Disease**
+
+[[Snapzy_2026-09-12_20-35-46_145.png]]
+
+ 
+
+- **The "Calomel Conspiracy" to Create Lifelong Patients**
+
+  Traditional doctors relied heavily on **calomel** (a powdery medicine made of mercury) to treat almost everything. Calomel caused the gums to swell, teeth to fall out, and skin to rot—which doctors claimed was proof the illness was "leaving the body."
+  - **The Theory:** Populists, especially followers of the Thomsonian herbal movement, argued that traditional doctors knew exactly how toxic mercury was. They claimed doctors were intentionally poisoning their patients just enough to ruin their health forever.
+  - **The Motive:** By destroying a patient's natural immune system with mercury, the doctor successfully created a "customer for life" who would constantly have to pay for more medical visits and treatments. It was viewed as a massive corporate scam to keep the American public permanently sick and dependent on the elite class.
+- **The Mutilation of Women and Children**
+
+  Because traditional medicine was a fiercely male-dominated field, the rise of male doctors taking over obstetrics (childbirth)—a job historically held by female midwives—sparked dark, protective conspiracies.
+  - **The Theory:** Populist health reformers claimed that university-educated male doctors were using childbirth as an excuse to perform unnecessary, experimental, and agonizing surgeries on women using cold metal instruments (like early forceps).
+  - **The Motive:** It was framed as a sadistic, elitist attack on the natural purity of American motherhood. Populists claimed that doctors preferred these mechanical, painful interventions simply to show off their "scientific" authority and justify their high fees, whereas traditional female midwives allowed nature to take its course safely.
