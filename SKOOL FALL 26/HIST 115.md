@@ -587,8 +587,14 @@
 
 | Name | Grade | Comments |
 | --- | --- | --- |
+| [Mohammad Arifi](https://sfsu.instructure.com/courses/72071/grades/154079#tab-assignments) |  | Missing several days,  |
 | Leroy Walker |  | Missing days besdies his absence, no thoughts |
+| [Jaylen Becerril](https://sfsu.instructure.com/courses/72071/grades/258319#tab-assignments) |  | No thoughts |
 | [Destiny Kinyanjui](https://sfsu.instructure.com/courses/72071/grades/266377#tab-assignments) |  | short notes, no thoughts |
 | ALexis Mcfarlead |  | Missings days in addtion to absence, no thoughts, short notes |
 | Jordan Liggins |  | Missing days , short notes, no thoughts |
 | [Keily Torres Hernandez](https://sfsu.instructure.com/courses/72071/grades/166201#tab-assignments) |  | Short notes, no thoughts |
+
+No name white notebook -15
+
+No name ½ size composition notebook -20
