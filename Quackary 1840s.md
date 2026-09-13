@@ -1,6 +1,6 @@
 ~🟣Anti-elite populism as the common ideological root of both nativist organizing and medical anti-licensing politics in 1830s New York~
 
-- **POTENTIAL CONCLUSIONS**
+- **POTENTIAL CONCLUSIONS EITHER:**
   - they *rhymed ideologically without ever touching*,
   - parallel populisms, no evidence they touched" version instead
 
@@ -75,13 +75,23 @@ Barent P. Staats vs. John Thomson
     - Thomsonian or Eclectic publications (Beach's *American Practice*, the Reformed Medical Academy's circulars)
     - Dr. William Levingston (1830-40)
       - Devil Bill" Rockefeller
+    - JACKSONIAN MEDICINE
+      - **Doctrine of Signatures** and divine providential geography.
+        - They believed God was a cosmic geographer who deliberately planted specific cures exactly where people would need them
+        - They believed God was a cosmic geographer who deliberately planted specific cures exactly where people would need them
+        - INDIAN OBESSION
+          - White herbalists argued that because Native Americans had lived on the continent for centuries, they possessed an instinctual understanding of the continent's botany. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6208447/)]
+          - Dozens of unauthorized manuals were published during this era capitalizing on this trend, such as *~The Indian Doctor's Dispensatory~* (1813) by Peter Smith.
+          - However, as noted in historical analyses like [***~God's Healing Leaves: The Colonial Quest for Indigenous Medicines~***](https://pmc.ncbi.nlm.nih.gov/articles/PMC6208447/), white society framed this indigenous expertise as "blunder, instinct, and intimate association with the beasts of the forest," rather than actual intelligence. This allowed white botanical entrepreneurs to systematically strip indigenous names from remedies, repackage them into patented commercial products (like Thomson's system), and profit from them while denying intellectual property rights to the tribes
+          - foreign medicines are bad for the American body —> Foreign immigrants are a disease vectors polluting the American body politic.
     - 
 - **THOMSONIAN MOVEMENT**
 - [[Snapzy_2026-09-12_20-20-51_261 (1).png]]
 - 
   - Samuel Thomson, the leader of the botanical medicine movement, heavily weaponized nativist rhetoric to sell his herbal system. He framed his conflict with traditional doctors as a patriotic battle between regular, God-fearing Americans and a foreign medical tyranny. [[1](https://pmc.ncbi.nlm.nih.gov/articles/PMC128961/)]
-    - **"Native Plants for Native Americans":** Thomsonians argued that God placed specific healing plants in the exact environment where people lived. They claimed that the roots, barks, and herbs found in the American wilderness were explicitly designed by nature to cure the illnesses of people living in America.
-    - **Fear of "Foreign" Contamination:** Using imported chemical drugs like mercury (calomel) or arsenic was framed not just as bad medicine, but as a dangerous injection of foreign toxins into the pure, self-reliant American body.
+    - 
+      - **"Native Plants for Native Americans":** Thomsonians argued that God placed specific healing plants in the exact environment where people lived. They claimed that the roots, barks, and herbs found in the American wilderness were explicitly designed by nature to cure the illnesses of people living in America.
+      - **Fear of "Foreign" Contamination:** Using imported chemical drugs like mercury (calomel) or arsenic was framed not just as bad medicine, but as a dangerous injection of foreign toxins into the pure, self-reliant American body.
   - The **Thomsonian/irregular-medicine** movement drove licensing repeal was a populist, largely native-born, rural-and-small-town phenomenon — Jacksonian in character, framed around "every man his own physician" and hostility to elite professional monopoly. It was not, on the evidence I've found, an immigrant movement or a fight fought on behalf of immigrant communities.
 - Founded by **Samuel Thomson** in the early 19th century, the Thomsonian system was a highly popular "botanic" medical movement that directly challenged orthodox ("regular") medicine.
   - **The Core Philosophy:** Thomson believed that all disease was caused by a loss of internal bodily heat. He famously claimed, "Heat is life, and cold is death."
