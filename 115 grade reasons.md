@@ -1,8 +1,7 @@
 - **General observations:** Almost everyone didn’t have anything listed for the third requirement, on agency. Scince it was so prevelant, I didn’t take off points for that
 - **Special Notes:** 
-- 2 notesbook s had no name, or I couldn’t find it the numbers are the grades: 
+- 1 notesbook s had no name, or I couldn’t find it the numbers are the grades: 
   - No name white notebook -15 (photo 1)
-  - No name ½ size composition notebook -20
 - **Additional Notes**
   - Brian Barba - didnt hand  in, but i dont see him listed
   - Calvin Cisneros- You have marked as not handed in, but i saw his
